@@ -1,0 +1,9 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"irrigation.c" LINE:36
+disp_limit DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"irrigation.c" LINE:13
+ftoa DSTACK_USAGE:13 DSTACK_LEVEL:13 FILE:"C:\cvavr\lib\stdlib.lib" LINE:959
+floor DSTACK_USAGE:4 DSTACK_LEVEL:17 FILE:"C:\cvavr\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:21 FILE:"C:\cvavr\lib\math.lib" LINE:544
+adc_isr DSTACK_USAGE:28 DSTACK_LEVEL:49 FILE:"irrigation.c" LINE:22
+ftoa DSTACK_USAGE:13 DSTACK_LEVEL:62 FILE:"C:\cvavr\lib\stdlib.lib" LINE:959
+floor DSTACK_USAGE:4 DSTACK_LEVEL:66 FILE:"C:\cvavr\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:70 FILE:"C:\cvavr\lib\math.lib" LINE:544
